@@ -1,7 +1,7 @@
 
 #include<stdio.h>
 #include<conio.h>
-int main()
+int main()//main program starts
 {
 int A[10],B[10],C[10],i,j,k;
 

@@ -3,7 +3,7 @@
 #include<conio.h>
 int main()//main program starts
 {
-int A[10],B[10],C[10],i,j,k;
+int A[10],B[10],C[10],i,j,k;// assigning array
 
 for(i=0;i<10;i++)
 {

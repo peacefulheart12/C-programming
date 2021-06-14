@@ -9,7 +9,7 @@ printf("enter the string");
 
 gets(str);
 length=strlen(str);
-for(i=length-1;i>=0;i--)
+for(i=length-1;i>=0;i--)//for loop initiated
 {
 	printf("%d",str[i]);
 }

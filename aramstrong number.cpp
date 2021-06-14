@@ -3,7 +3,7 @@
 #include<string.h>
 int main() //main program starts
 {
-char str[20];
+char str[20];//defining string length
 int length,i;
 printf("enter the string");
 

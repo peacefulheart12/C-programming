@@ -5,7 +5,7 @@ int main()//main func
 	int n,count=0;//initialization
 	printf("Enter any number:");//inter any num
 	scanf("%d",&n);
-	while(n!=0)
+	while(n!=0)//loop
 
 	{
 		n=n/10;

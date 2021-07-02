@@ -1,6 +1,6 @@
 #include<stdio.h>// Headers
 #include<conio.h>
-int main()
+int main()//main func
 {
 	int n,count=0;
 	printf("Enter any number:");

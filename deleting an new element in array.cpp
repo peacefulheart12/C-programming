@@ -11,7 +11,7 @@ int main()
 		printf("enter the position to delete");
 	scanf("%d",&pos);
 	
-	for(i=pos-1;i<=n-1;i++)
+	for(i=pos-1;i<=n-1;i++)//for loop
 	{
 		a[i]=a[i+1];
 	} 

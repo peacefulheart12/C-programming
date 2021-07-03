@@ -19,5 +19,5 @@ int main()
 	{
 printf("%d",a[i]);
 	}
-getch();
+getch();//close
 }

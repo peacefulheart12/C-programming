@@ -6,7 +6,7 @@ int main()
 	printf("enter the number of element in array");
 	scanf("%d",&n);
 	printf("Enter the elements");
-	for(i=0;i<n;i++)
+	for(i=0;i<n;i++)//looping
 	scanf("%d",&a[i]);
 		printf("enter the position to delete");
 	scanf("%d",&pos);

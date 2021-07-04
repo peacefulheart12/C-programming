@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//headder
 #include<conio.h>
 int main()
 {

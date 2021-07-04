@@ -1,6 +1,6 @@
 #include<stdio.h>//headder
 #include<conio.h>
-int main()
+int main()//main program
 {
 	int char_count=0;
 int	word_count=0,i;

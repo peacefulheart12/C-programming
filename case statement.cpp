@@ -2,7 +2,7 @@
 #include<conio.h>
 int addition()
 	{
-		int a,b,c;
+		int a,b,c;//initialization
 		scanf("%d",&a);
 			scanf("%d",&b);
 			c=a+b;

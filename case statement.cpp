@@ -11,7 +11,7 @@ int addition()
 		int mult()//init multi
 		
 	{
-		int a,b,c;
+		int a,b,c;//init a,b,c
 		scanf("%d",&a);
 			scanf("%d",&b);
 			c=a-b;

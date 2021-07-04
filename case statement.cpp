@@ -8,7 +8,7 @@ int addition()
 			c=a+b;//main operation
 			printf("The sum is:%d",c);
 	}
-		int mult()
+		int mult()//init multi
 		
 	{
 		int a,b,c;

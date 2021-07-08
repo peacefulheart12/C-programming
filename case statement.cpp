@@ -17,7 +17,7 @@ int addition()
 			c=a-b;//calc
 			printf("%d",c);//print
 	}
-		int diff()
+		int diff()//diff
 	{
 		int a,b,c;
 		scanf("%d",&a);

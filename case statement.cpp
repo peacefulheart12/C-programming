@@ -21,8 +21,8 @@ int addition()
 	{
 		int a,b,c;//initialize
 		scanf("%d",&a);//scan
-			scanf("%d",&b);
-			c=a*b;
+			scanf("%d",&b);//scanf
+			c=a*b;//calc
 			printf("%d",c);
 	}
 	

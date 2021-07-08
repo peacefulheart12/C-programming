@@ -20,7 +20,7 @@ int addition()
 		int diff()//diff
 	{
 		int a,b,c;//initialize
-		scanf("%d",&a);
+		scanf("%d",&a);//scan
 			scanf("%d",&b);
 			c=a*b;
 			printf("%d",c);

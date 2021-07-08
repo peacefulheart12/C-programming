@@ -23,7 +23,7 @@ int addition()
 		scanf("%d",&a);//scan
 			scanf("%d",&b);//scanf
 			c=a*b;//calculation
-			printf("%d",c);
+			printf("%d",c);//print
 	}
 	
 int main()

@@ -13,7 +13,7 @@ int addition()
 	{
 		int a,b,c;//init a,b,c
 		scanf("%d",&a);//scan
-			scanf("%d",&b);
+			scanf("%d",&b);//scan
 			c=a-b;
 			printf("%d",c);
 	}

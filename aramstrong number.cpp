@@ -14,7 +14,8 @@ for(i=length-1;i>=0;i--)//for loop initiated
 	printf("%d",str[i]);//Circulating the loop
 }
 getch();//  program end
-}
+}//finalize program
+
 
 
 

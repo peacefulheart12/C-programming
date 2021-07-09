@@ -8,7 +8,7 @@ int length,i;// initialization
 printf("enter the string");//print
 
 gets(str);
-length=strlen(str);
+length=strlen(str);//length calc
 for(i=length-1;i>=0;i--)//for loop initiated
 {
 	printf("%d",str[i]);//Circulating the loop

@@ -1,6 +1,6 @@
 #include<stdio.h>//header
 #include<conio.h>//header
-#include<string.h>
+#include<string.h>//header
 int main() //main program starts
 {
 char str[20];//defining string length

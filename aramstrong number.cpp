@@ -1,5 +1,5 @@
 #include<stdio.h>//header
-#include<conio.h>
+#include<conio.h>//header
 #include<string.h>
 int main() //main program starts
 {

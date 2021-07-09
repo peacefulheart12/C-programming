@@ -4,7 +4,7 @@
 int main() //main program starts
 {
 char str[20];//defining string length
-int length,i;
+int length,i;// initialization
 printf("enter the string");
 
 gets(str);

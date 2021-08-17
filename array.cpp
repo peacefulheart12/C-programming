@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+int main()// Main function
 {
 	int x[10],i;
 	printf("the outputs are :\n");

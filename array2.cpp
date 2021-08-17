@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-	int x [10],i,sum;
+	int x [10],i,sum;//array formation
 	
 	printf("enter any number");
 	scanf("%d",&x[10]);

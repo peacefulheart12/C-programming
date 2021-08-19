@@ -4,7 +4,7 @@ int main()//main funf
 {
 	int i,n;// initialization of integers
 	printf("Enter any number:");// inter any number
-	scanf("%d",&n);
+	scanf("%d",&n);// scan that number
 	for(i=1;i<=n;i++)
 	{
 		if(n%i==0)

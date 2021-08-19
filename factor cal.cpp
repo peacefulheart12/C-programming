@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-int main()
+int main()//main funf
 {
 	int i,n;
 	printf("Enter any number:");

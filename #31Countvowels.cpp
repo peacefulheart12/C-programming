@@ -7,7 +7,7 @@
 */
 #include<stdio.h>// header stdio
 //#include<stdlib.h>
-#include<conio.h>
+#include<conio.h>// conio
 //#include<string.h>
 #include<ctype.h>
 int scan_line(char line[100],int *v,int *d,int *w,int *o)

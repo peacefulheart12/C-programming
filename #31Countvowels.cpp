@@ -10,7 +10,7 @@
 #include<conio.h>// conio
 //#include<string.h>
 #include<ctype.h>//c type
-int scan_line(char line[100],int *v,int *d,int *w,int *o)
+int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initialization
 {
 	int count=0;
 	char c;

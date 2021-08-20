@@ -18,7 +18,7 @@ int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initializatio
 	{
 		if(c=='A' || c=='E' || c=='I' || c=='U' || c=='O')// if condition
 		{
-			++*v;
+			++*v;// value increment
 		}
 		else if(c=='1' || c=='2' || c=='3' || c=='4' || c=='5' || c=='6' || c=='7' || c=='8' || c=='9') //each digits must be checked indivisually since line is a character array (string) where integers are taken as character
 		{

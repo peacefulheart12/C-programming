@@ -26,7 +26,7 @@ int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initializatio
 		}
 		else if(c==' 0') //' ' is used to count the white space instead '\0'
 		{
-			++*w;
+			++*w;//increment
 		}
 		else
 		{

@@ -14,7 +14,7 @@ int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initializatio
 {
 	int count=0;//init
 	char c;// init character c
-	while((c=(toupper(line[count++])))!='\0')
+	while((c=(toupper(line[count++])))!='\0')// while loop
 	{
 		if(c=='A' || c=='E' || c=='I' || c=='U' || c=='O')
 		{

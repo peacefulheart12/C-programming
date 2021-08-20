@@ -5,7 +5,7 @@
 	Date: 18/02/15 15:43
 	Description: C-program to find no. of vowels, digits, whitespaces and other characters using pointer (Input given is a sentence)
 */
-#include<stdio.h>
+#include<stdio.h>// header stdio
 //#include<stdlib.h>
 #include<conio.h>
 //#include<string.h>

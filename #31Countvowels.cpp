@@ -28,7 +28,7 @@ int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initializatio
 		{
 			++*w;//increment
 		}
-		else
+		else//ending of loop
 		{
 			++*o;
 		}

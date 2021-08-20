@@ -12,8 +12,8 @@
 #include<ctype.h>//c type
 int scan_line(char line[100],int *v,int *d,int *w,int *o)// making initialization
 {
-	int count=0;
-	char c;
+	int count=0;//init
+	char c;// init character c
 	while((c=(toupper(line[count++])))!='\0')
 	{
 		if(c=='A' || c=='E' || c=='I' || c=='U' || c=='O')

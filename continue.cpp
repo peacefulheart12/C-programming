@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//header studio
 #include<conio.h>
 int main()
 {

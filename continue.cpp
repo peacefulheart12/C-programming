@@ -10,5 +10,5 @@ int main()//int main
 		
 		printf("%d",i);//print
 	}
-	getch();
+	getch();//getch
 }

@@ -8,7 +8,7 @@ int main()//int main
 		if(i<5)break;// break	
 		
 		
-		printf("%d",i);
+		printf("%d",i);//print
 	}
 	getch();
 }

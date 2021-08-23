@@ -1,5 +1,5 @@
 #include<stdio.h>//header studio
-#include<conio.h>
+#include<conio.h>// header conio
 int main()
 {
 	int i=0;

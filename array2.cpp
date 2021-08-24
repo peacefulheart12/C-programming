@@ -1,5 +1,5 @@
 #include<stdio.h>//header
-#include<conio.h>
+#include<conio.h>//header conio
 int main()
 {
 	int x [10],i,sum;//array formation

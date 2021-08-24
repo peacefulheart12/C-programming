@@ -2,7 +2,7 @@
 #include<conio.h>//header
 int main()//main program
 {
-	int char_count=0;
+	int char_count=0;//initialization
 int	word_count=0,i;
 	char str[50];
 	printf("Enter any sentance");

@@ -1,5 +1,5 @@
 #include<stdio.h>//headder
-#include<conio.h>
+#include<conio.h>//header
 int main()//main program
 {
 	int char_count=0;

@@ -5,7 +5,7 @@ int main()//main program
 	int char_count=0;//initialization
 int	word_count=0,i;//count
 	char str[50];// char
-	printf("Enter any sentance");
+	printf("Enter any sentance");//print
 	gets(str);
 	for(i=0;str[i]!='\0';i++)
 	{

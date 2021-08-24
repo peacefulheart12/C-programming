@@ -6,7 +6,7 @@ int main()// main function
 	
 	printf("enter any number");//print
 	scanf("%d",&x[10]);//scan
-	for(i=0;i<10;i++)
+	for(i=0;i<10;i++)//loop
 	sum=i+i;
 	
 	

@@ -3,7 +3,7 @@
 int main()//main program
 {
 	int char_count=0;//initialization
-int	word_count=0,i;
+int	word_count=0,i;//count
 	char str[50];
 	printf("Enter any sentance");
 	gets(str);

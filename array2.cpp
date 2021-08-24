@@ -1,6 +1,6 @@
 #include<stdio.h>//header
 #include<conio.h>//header conio
-int main()
+int main()// main function
 {
 	int x [10],i,sum;//array formation
 	

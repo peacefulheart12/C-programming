@@ -1,5 +1,5 @@
 #include<stdio.h>//header
-#include<conio.h>
+#include<conio.h>//header
 int main()
 {
 	int i,n,pos,value,a[10],del;//initialization

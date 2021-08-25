@@ -1,6 +1,6 @@
 #include<stdio.h>//header
 #include<conio.h>//header
-int main()
+int main()//main function
 {
 	int i,n,pos,value,a[10],del;//initialization
 	printf("enter the number of element in array");

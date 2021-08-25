@@ -3,7 +3,7 @@
 int main()//main function
 {
 	int i,n,pos,value,a[10],del;//initialization
-	printf("enter the number of element in array");
+	printf("enter the number of element in array");//print
 	scanf("%d",&n);
 	printf("Enter the elements");
 	for(i=0;i<n;i++)//looping

@@ -5,7 +5,7 @@ int main()//main function
 	int i,n,pos,value,a[10],del;//initialization
 	printf("enter the number of element in array");//print
 	scanf("%d",&n);//scan
-	printf("Enter the elements");
+	printf("Enter the elements");//print elements
 	for(i=0;i<n;i++)//looping
 	scanf("%d",&a[i]);
 		printf("enter the position to delete");

@@ -1,6 +1,6 @@
 #include<stdio.h>// header
 #include<conio.h>// header
-int main()
+int main()// main function
 
 {
 	int n,i=0,j=1,k,a;

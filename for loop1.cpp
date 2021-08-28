@@ -5,7 +5,7 @@ int main()// main function
 {
 	int n,i=0,j=1,k,a;// initialization
 	scanf("%d",&n);// scanf
-	for(a=1;a<=n;a++)
+	for(a=1;a<=n;a++)// for loop
 	{
 		printf("%d\n",i);
 k=i+j;

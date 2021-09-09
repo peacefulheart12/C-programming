@@ -1,5 +1,5 @@
 //24 transpose
-#include<stdio.h>
+#include<stdio.h>//head
 #include<conio.h>
 int transpose()
 {

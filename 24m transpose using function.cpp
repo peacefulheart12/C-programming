@@ -1,7 +1,7 @@
 //24 transpose
 #include<stdio.h>//head
 #include<conio.h>// head conio
-int transpose()
+int transpose()// transpose function
 {
 	int a[2][2],i,j;
 	printf("enter the no for a:");

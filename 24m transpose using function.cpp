@@ -3,7 +3,7 @@
 #include<conio.h>// head conio
 int transpose()// transpose function
 {
-	int a[2][2],i,j;
+	int a[2][2],i,j;// int
 	printf("enter the no for a:");
 	for(i=0;i<2;i++)
 	{

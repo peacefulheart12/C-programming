@@ -1,6 +1,6 @@
 //24 transpose
 #include<stdio.h>//head
-#include<conio.h>
+#include<conio.h>// head conio
 int transpose()
 {
 	int a[2][2],i,j;

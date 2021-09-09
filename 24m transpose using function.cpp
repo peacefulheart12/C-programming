@@ -4,7 +4,7 @@
 int transpose()// transpose function
 {
 	int a[2][2],i,j;// int
-	printf("enter the no for a:");
+	printf("enter the no for a:");//print
 	for(i=0;i<2;i++)
 	{
 		for(j=0;j<2;j++)
